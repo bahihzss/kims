@@ -20,6 +20,7 @@
     "equals": "^1.0.5",
     "laravel-elixir-browsersync-official": "^1.0.0",
     "paper-css": "^0.3.0",
+    "uuid": "^3.0.1",
     "vue-router": "^2.5.3"
   }
 }
