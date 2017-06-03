@@ -44,7 +44,7 @@
                         <thead>
                         <tr>
                             <th>ID</th>
-                            <th>商品名</th>
+                            <th style="width: 40%">商品名</th>
                             <th>仕入日</th>
                             <th>仕入価格</th>
                         </tr>
