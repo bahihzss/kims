@@ -47,7 +47,6 @@
                             <th>商品名</th>
                             <th>仕入日</th>
                             <th>仕入価格</th>
-                            <th>仕入元</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -57,7 +56,6 @@
                             <td>{{ product.name }}</td>
                             <td>{{ product.purchase_date }}</td>
                             <td>{{ product.purchase_price }}</td>
-                            <td>{{ product.purchase_place }}</td>
                         </tr>
                         </tbody>
                     </table>
